@@ -1,0 +1,9 @@
+{
+  "name": "pay-card",
+  "scripts": {},
+  "author": "Oshepkov Evgeniy",
+  "dependencies": {
+    "inputmask": "^5.0.7",
+    "redom": "^3.29.1"
+  }
+}
